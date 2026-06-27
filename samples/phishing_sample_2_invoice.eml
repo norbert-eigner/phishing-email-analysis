@@ -1,0 +1,47 @@
+Delivered-To: norbert.eigner@gmail.com
+Received: from vps-4471.hostwinds-cheap.top (vps-4471.hostwinds-cheap.top [198.51.100.211])
+        by mx.google.com with ESMTPS id k2si1180992
+        for <norbert.eigner@gmail.com>; Wed, 24 Jun 2026 23:48:02 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       dkim=none;
+       spf=softfail (google.com: domain of billing@accounts-payable-int.top is neutral) smtp.mailfrom=billing@accounts-payable-int.top;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=dhl.com
+Received-SPF: softfail
+From: "DHL Express Billing" <billing@accounts-payable-int.top>
+Reply-To: billing@accounts-payable-int.top
+To: norbert.eigner@gmail.com
+Subject: INVOICE #DHL-2026-44871 OVERDUE - immediate payment required
+Date: Wed, 24 Jun 2026 23:48:01 -0700
+Message-ID: <44871.invoice@accounts-payable-int.top>
+X-Priority: 1 (Highest)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="==BOUNDARY_44871=="
+
+--==BOUNDARY_44871==
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family:Arial, sans-serif;color:#222;">
+  <p>Dear Customer,</p>
+  <p>Our records show an <b>outstanding balance of EUR 1,284.50</b> for a shipment
+  addressed to you that is being held at customs.</p>
+  <p>The shipment will be <b>returned to sender and a penalty applied</b> if the
+  attached invoice is not settled within 48 hours.</p>
+  <p>Please review the attached invoice and payment instructions:</p>
+  <p><b>Attachment: Invoice_DHL-2026-44871.htm</b></p>
+  <p>Failure to respond will result in legal recovery action.</p>
+  <p>Regards,<br>DHL Express &mdash; Accounts Receivable</p>
+</body>
+</html>
+
+--==BOUNDARY_44871==
+Content-Type: text/html; charset="UTF-8"; name="Invoice_DHL-2026-44871.htm"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Invoice_DHL-2026-44871.htm"
+
+W1NJTVVMQVRFRCBUUkFJTklORyBTQU1QTEUgLSBOT1QgQSBSRUFMIEFUVEFDSE1FTlRdCkluIGEg
+cmVhbCBwaGlzaCB0aGlzIC5odG0gZmlsZSB3b3VsZCByZW5kZXIgYSBmYWtlIE9mZmljZSAzNjUg
+bG9naW4gZm9ybSB0aGF0IFBPU1RzIGNyZWRlbnRpYWxzIHRvIGFuIGF0dGFja2VyLWNvbnRyb2xs
+ZWQgc2VydmVyLiBSZWRhY3RlZCBmb3Igc2FmZXR5Lg==
+
+--==BOUNDARY_44871==--

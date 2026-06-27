@@ -1,0 +1,46 @@
+Delivered-To: norbert.eigner@gmail.com
+Received: from mail.account-microsoft-verify.xyz (account-microsoft-verify.xyz [203.0.113.66])
+        by mx.google.com with ESMTPS id x7si3920113
+        for <norbert.eigner@gmail.com>; Mon, 22 Jun 2026 03:14:51 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       dkim=fail header.i=@account-microsoft-verify.xyz;
+       spf=fail (google.com: domain of bounce@account-microsoft-verify.xyz does not designate 203.0.113.66 as permitted sender) smtp.mailfrom=bounce@account-microsoft-verify.xyz;
+       dmarc=fail (p=REJECT sp=REJECT dis=NONE) header.from=microsoft.com
+Received-SPF: fail (google.com: domain of bounce@account-microsoft-verify.xyz does not designate 203.0.113.66 as permitted sender)
+From: "Microsoft account team" <account-security-noreply@account-microsoft-verify.xyz>
+Reply-To: "Support" <recover-help@mailpunch-relay.top>
+To: norbert.eigner@gmail.com
+Subject: Unusual sign-in activity on your Microsoft account
+Date: Mon, 22 Jun 2026 03:14:50 -0700
+Message-ID: <a91f3c20-recover@account-microsoft-verify.xyz>
+X-Mailer: PHPMailer 6.1.4 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family:Segoe UI, Arial, sans-serif;color:#1b1b1b;">
+  <img src="http://account-microsoft-verify.xyz/img/ms_logo.png" alt="Microsoft" width="108">
+  <h2>Unusual sign-in activity</h2>
+  <p>Dear Customer,</p>
+  <p>We detected a sign-in attempt to your Microsoft account from a device we
+  don't recognize:</p>
+  <p>
+     Country/region: Lagos, Nigeria<br>
+     IP address: 102.89.x.x<br>
+     Date: June 22, 2026, 10:11 GMT
+  </p>
+  <p><b>If this wasn't you, your account may be compromised.</b> You must verify
+  your identity within <b>24 hours</b> or your account will be permanently
+  suspended.</p>
+  <p style="text-align:center;">
+     <a href="http://account-microsoft-verify.xyz/login/?session=8842aa1b&amp;[email protected]"
+        style="background:#0067b8;color:#fff;padding:12px 26px;text-decoration:none;border-radius:3px;">
+        Verify my account
+     </a>
+  </p>
+  <p style="font-size:12px;color:#666;">If you did not request this, please
+  ignore this email. Microsoft will never ask for your password by email.</p>
+  <p style="font-size:11px;color:#999;">Microsoft Corporation, One Microsoft Way,
+  Redmond, WA 98052</p>
+</body>
+</html>
